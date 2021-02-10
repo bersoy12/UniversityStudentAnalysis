@@ -26,7 +26,7 @@
 | --- | --- | --- |
 | program_id | program_adi | uni_id |
 
-| universiteler |
+| universiteler | | |
 | --- | --- | --- |
 | uni_id | uni_adi | sehir_id |
 
