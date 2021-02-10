@@ -18,11 +18,11 @@
 
 ### Tablolar
 
-| sehirler |
+| sehirler | |
 | --- | --- |
 | sehir_id | sehir_adi |
 
-| bolumler |
+| bolumler | | |
 | --- | --- | --- |
 | program_id | program_adi | uni_id |
 
