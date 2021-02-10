@@ -30,24 +30,24 @@
 | --- | --- | --- |
 | uni_id | uni_adi | sehir_id |
 
-| genel_bilgiler |
-| --- |
+| genel_bilgiler | | | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | program_id | fakulte_adi | puan_turu | burs_turu | genel_kontenjan | okul_birincisi_kontenjani | toplam_kontenjan | genel_kontenjana_yerlesen | okul_birincisi_kontenjanina_yerlesen | toplam_yerlesen | bos_kontenjan | ilk_yerlesme_orani | kayit_yaptirmayan | ek_yerlesen | ortalama_obp | ort_diploma_notu |
 
-| universite_tercihleri |
+| universite_tercihleri | |
 | --- | --- |
 | program_id | tercih_eden_sayisi |
 
-| kacinci_tercih |
+| kacinci_tercih | | |
 | --- | --- | --- |
 | program_id | tercih_sirasi | yerlesen_sayisi |
 
-| geldikleri_liseler |
+| geldikleri_liseler | | | |
 | --- | --- | --- | --- |
 | program_id | lise_adi | yeni_mezun | onceki_donem |
 
-| geldikleri_iller |
-| --- |
+| geldikleri_iller | | |
+| --- | --- | --- |
 | program_id | sehir_id | yerlesen_sayisi |
 
 ### Kullanılan Araçlar
