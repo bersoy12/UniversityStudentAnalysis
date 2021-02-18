@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    Collects data from <a href="https://yokatlas.yok.gov.tr/">YOK Atlas</a> and puts into csv file.
+    <br />
+	<div style="width:100%;">
+		<div style="float: left; width: 100"> 
+            <form action='bir_uniye_yerlesen_sayisi.php' 
+                    action='geldikleri_liseler.php' 
+                    action='kacinci_tercih.php'
+                    action='uni_bilgileri.php'
+                    action='universite_turleri.php'
+                    action='yerlesenler.php'
+                    action='yerlesenlerin_geldikleri_iller.php'
+                    method='post'>
+				<input type="submit" value="Collect">
+            </form>
+		</div>
+	</div>
+	<br />
+	<br />
+	Installation page creates database and inserts data into tables in order.
+	<br />
+	<div style="width:100%;">
+		<div style="float: left; width: 100"> 
+			<form action='install.php' method='post'>
+				<input type="submit" value="Installation Page">
+			</form>
+		</div>
+	</div>
+	<br />
+	<br />
+	Herhangi Bir Üniversitenin Herhangi Bir Bölümüne İl İl Toplam Yerleşen Sayısı
+	<br />
+	<div style="width:100%;">
+		<div style="float: left; width: 100"> 
+			<form action='siteler\bir_uniye_yerlesen_sayisi.php' method='post'>
+				<input type="submit" value="Bir Üniversiteye Yerleşen Öğrenci Sayısı">
+			</form>
+		</div>
+	</div>
+	<br />
+	<br />
+	Birinci Tercih ile Yerleşilen Bölümler ve Yerleşen Sayıları
+	<br />
+	<div style="width:100%;">
+		<div style="float: left; width: 100"> 
+			<form action='siteler\birinci_tercihe_yerlesenler.php' method='post'>
+				<input type="submit" value="İlk Tercih Analizi">
+			</form>
+		</div>
+	</div>
+	<br />
+	<br />
+	Hangi İller Ne Kadar Eğitim Göçü Verdi?
+	<br />
+	<div style="width:100%;">
+		<div style="float: left; width: 100"> 
+			<form action='siteler\egitim_gocu_veren_iller.php' method='post'>
+				<input type="submit" value="Eğitim Göçü Veren İller">
+			</form>
+		</div>
+	</div>
+	<br />
+	<br />
+	Hangi Liseden Hangi İllere Yerleşildi?
+	<br />
+	<div style="width:100%;">
+		<div style="float: left; width: 100"> 
+			<form action='siteler\hangi_liseden_hangi_illere.php' method='post'>
+				<input type="submit" value="Eğitim Göçü Alan İller">
+			</form>
+		</div>
+	</div>
+	<br />
+	<br />
+	Üniversiteye Yerleşenler Hangi İllerden geldi?
+	<br />
+	<div style="width:100%;">
+		<div style="float: left; width: 100"> 
+			<form action='siteler\yerlesenlerin_geldikleri_iller.php' method='post'>
+				<input type="submit" value="Yerleşenlerin Geldikleri İller">
+			</form>
+		</div>
+	</div>
+	<br />
+	<br />
+	<style type ="text/css" >
+		.footer{ 
+			position: fixed;     
+			text-align: center;    
+			bottom: 0px; 
+			width: 100%;
+		}  
+	 </style>
+	 <div class="footer">Berkay Ersoy - YOK Atlas Project</div>
+</body>
+</html>
