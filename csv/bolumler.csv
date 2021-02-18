@@ -1,4 +1,4 @@
-﻿degree_id;degree_name;uni_id
+﻿program_id;program_adi;uni_id
 106510090;Psikoloji (İngilizce);1065
 106510089;Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce);1065
 106510014;Mimarlık (İngilizce);1065
@@ -5465,7 +5465,7 @@
 203410632;Mekatronik Mühendisliği (İngilizce) (%50 İndirimli);2034
 105611183;Coğrafya (Açıköğretim);1056
 105690483;Çocuk Gelişimi (Açıköğretim);1056
-105690663;Egzersiz ve Spor Bilimleri (Açık Öğretim);1056
+105690663;Egzersiz ve Spor Bilimleri (Açıköğretim);1056
 105611174;Felsefe (Açıköğretim);1056
 105611023;Gazetecilik (Uzaktan Öğretim);1056
 105611041;Halkla İlişkiler ve Tanıtım (Uzaktan Öğretim);1056
