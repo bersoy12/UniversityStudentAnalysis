@@ -10625,7 +10625,7 @@ $links = array(
 $size=sizeof($links);
 
 for($v=0;$v<$size;$v++) {
-    $html=file_get_html($links[$v],false,null,0,10617);
+    $html=file_get_html($links[$v],false,null,0);
     $program_id=substr($links[$v],-9);
 
     $i=0;
