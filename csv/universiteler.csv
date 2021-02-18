@@ -1,4 +1,4 @@
-﻿uni_id;uni_name;city_id
+﻿uni_id;uni_adi;sehir_id
 1065;Abdullah Gül Üniversitesi;38
 2001;Acıbadem Mehmet Ali Aydınlar Üniversitesi;34
 1104;Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi;1
@@ -198,27 +198,27 @@
 2079;Yüksek İhtisas Üniversitesi;6
 1103;Zonguldak Bülent Ecevit Üniversitesi;67
 3014;Ada Kent Üniversitesi;82
-3006;Akdeniz Karpaz Üniversitesi;83
-3016;Arkın Yaratıcı Sanatlar Ve Tasarım Üniversitesi;84
-3017;Bahçeşehir Kıbrıs Üniversitesi;85
-3001;Doğu Akdeniz Üniversitesi;86
-3002;Girne Amerikan Üniversitesi;87
-3007;Girne Üniversitesi;88
-3009;Kıbrıs Amerikan Üniversitesi;89
-3015;Kıbrıs Batı Üniversitesi;90
-3008;Kıbrıs İlim Üniversitesi;91
-3012;Kıbrıs Sağlık Ve Toplum Bilimleri Üniversitesi;92
-3003;Lefke Avrupa Üniversitesi;93
-3018;Rauf Denktaş Üniversitesi;94
-3013;Uluslararası Final Üniversitesi;95
-3005;Yakın Doğu Üniversitesi;96
-3004;Uluslararası Kıbrıs Üniversitesi;97
-4039;Hoca Ahmet Yesevi Uluslararası Türk-Kazak Üniversitesi;98
-4052;Kırgızistan-Türkiye Manas Üniversitesi;99
-4011;Azerbaycan Devlet Pedagoji Üniversitesi;100
-4013;Azerbaycan Diller Üniversitesi;101
-4017;Azerbaycan Tıp Üniversitesi;102
-4020;Bakü Devlet Üniversitesi;103
-4054;Komrat Devlet Üniversitesi;104
-4088;Uluslararası Saraybosna Üniversitesi;105
-4096;Uluslararası Balkan Üniversitesi;106
+3006;Akdeniz Karpaz Üniversitesi;82
+3016;Arkın Yaratıcı Sanatlar Ve Tasarım Üniversitesi;82
+3017;Bahçeşehir Kıbrıs Üniversitesi;82
+3001;Doğu Akdeniz Üniversitesi;82
+3002;Girne Amerikan Üniversitesi;82
+3007;Girne Üniversitesi;82
+3009;Kıbrıs Amerikan Üniversitesi;82
+3015;Kıbrıs Batı Üniversitesi;82
+3008;Kıbrıs İlim Üniversitesi;82
+3012;Kıbrıs Sağlık Ve Toplum Bilimleri Üniversitesi;82
+3003;Lefke Avrupa Üniversitesi;82
+3018;Rauf Denktaş Üniversitesi;82
+3013;Uluslararası Final Üniversitesi;82
+3005;Yakın Doğu Üniversitesi;82
+3004;Uluslararası Kıbrıs Üniversitesi;82
+4039;Hoca Ahmet Yesevi Uluslararası Türk-Kazak Üniversitesi;83
+4052;Kırgızistan-Türkiye Manas Üniversitesi;83
+4011;Azerbaycan Devlet Pedagoji Üniversitesi;83
+4013;Azerbaycan Diller Üniversitesi;83
+4017;Azerbaycan Tıp Üniversitesi;83
+4020;Bakü Devlet Üniversitesi;83
+4054;Komrat Devlet Üniversitesi;83
+4088;Uluslararası Saraybosna Üniversitesi;83
+4096;Uluslararası Balkan Üniversitesi;83
