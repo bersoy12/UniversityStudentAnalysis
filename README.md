@@ -53,7 +53,7 @@
 ### Kullanılan Araçlar
 
 - [PHP Simple HTML DOM Parser](https://simplehtmldom.sourceforge.io)
-    - Web sayfasındaki tag'li verilerin toplanmasını sağlayan bir PHP kütüphanesi
+    - Web sayfasındaki tag'li verilerin toplanmasını sağlayan bir PHP kütüphanesidir.
 - [AMPPS](http://www.ampps.com)
     - Verilerin CSV dosyasına kaydedilmesinde ve daha sonra düzenlenmiş verilerin Veritabanına aktarılmasında kullanılmıştır.
 - Microsoft Excel
