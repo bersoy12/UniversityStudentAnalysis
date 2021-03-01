@@ -57,4 +57,4 @@
 - [AMPPS](http://www.ampps.com)
     - Verilerin CSV dosyasına kaydedilmesinde ve daha sonra düzenlenmiş verilerin Veritabanına aktarılmasında kullanılmıştır.
 - Microsoft Excel
-    - Verilerin düzenlenmesi amacıyla kullanılmıştır.
+    - Verilerin temizlenmesi için kullanılmıştır.
