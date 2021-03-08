@@ -53,10 +53,11 @@
 ### Kullanılan Araçlar
 
 - [PHP Simple HTML DOM Parser](https://simplehtmldom.sourceforge.io)
-    - Web sayfasındaki tag'li verilerin toplanmasını sağlayan bir PHP kütüphanesi
+    - Web sayfasındaki tag'li verilerin toplanmasını sağlayan bir PHP kütüphanesidir.
 - [AMPPS](http://www.ampps.com)
     - Verilerin CSV dosyasına kaydedilmesinde ve daha sonra düzenlenmiş verilerin Veritabanına aktarılmasında kullanılmıştır.
 - Microsoft Excel
+<<<<<<< HEAD
     - Verilerin düzenlenmesi amacıyla kullanılmıştır.
     
     
@@ -65,3 +66,6 @@
 Verilerin Amazon Web Service'e yüklenmesi ve sorguların bu veritabanında yapılması için bir deneme de yapılmıştır. İlgili dosya:
 
 [aws_data_load.php](https://github.com/bersoy12/UniversityStudentAnalysis/blob/main/aws_data_load.php)
+=======
+    - Verilerin temizlenmesi için kullanılmıştır.
+>>>>>>> 5e5acd4faa1b1f9968b03b53dcfa339eaae52038
