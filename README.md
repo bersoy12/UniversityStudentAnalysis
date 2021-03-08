@@ -58,3 +58,10 @@
     - Verilerin CSV dosyasına kaydedilmesinde ve daha sonra düzenlenmiş verilerin Veritabanına aktarılmasında kullanılmıştır.
 - Microsoft Excel
     - Verilerin düzenlenmesi amacıyla kullanılmıştır.
+    
+    
+### AWS Denemesi
+
+Verilerin Amazon Web Service'e yüklenmesi ve sorguların bu veritabanında yapılması için bir deneme de yapılmıştır. İlgili dosya:
+
+[aws_data_load.php](https://github.com/bersoy12/UniversityStudentAnalysis/blob/main/aws_data_load.php)
