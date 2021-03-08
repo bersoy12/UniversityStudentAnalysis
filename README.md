@@ -1,8 +1,8 @@
 # YÖK Atlas Analizleri
 
-### Proje Amacı
+## Proje Amacı
 
-[YÖK Atlas](http://www.github.com) websitesinden beslenerek 
+[YÖK Atlas](https://yokatlas.yok.gov.tr/lisans-anasayfa.php) websitesinden beslenerek 
 
 1. Veri madenciliği
 2. Verilerin düzenlenmesi
