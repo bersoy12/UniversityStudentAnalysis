@@ -66,6 +66,5 @@
 Verilerin Amazon Web Service'e yüklenmesi ve sorguların bu veritabanında yapılması için bir deneme de yapılmıştır. İlgili dosya:
 
 [aws_data_load.php](https://github.com/bersoy12/UniversityStudentAnalysis/blob/main/aws_data_load.php)
-=======
-    - Verilerin temizlenmesi için kullanılmıştır.
->>>>>>> 5e5acd4faa1b1f9968b03b53dcfa339eaae52038
+    
+Verilerin temizlenmesi için kullanılmıştır.
