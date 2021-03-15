@@ -1,8 +1,14 @@
 <?php
 set_time_limit(0);
+<<<<<<< HEAD
 $conn = new mysqli('****.rds.amazonaws.com', 'admin', ****, '');
 
 $con = mysqli_connect("****.us-east-2.rds.amazonaws.com", "admin", ****, "dbpractice");
+=======
+$conn = new mysqli('database-1.cznlkcpzyec0.us-east-2.rds.amazonaws.com', 'admin', ****, '');
+
+$con = mysqli_connect("database-1.cznlkcpzyec0.us-east-2.rds.amazonaws.com", "admin", ****, "dbpractice");
+>>>>>>> 93520da925a9cb01668f431880374c379ade2d81
 
 if ($con) {
 /*
