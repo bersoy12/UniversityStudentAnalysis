@@ -1,17 +1,11 @@
 <?php
 set_time_limit(0);
-<<<<<<< HEAD
+
 $conn = new mysqli('****.rds.amazonaws.com', 'admin', ****, '');
 
-$con = mysqli_connect("****.us-east-2.rds.amazonaws.com", "admin", ****, "dbpractice");
-=======
-$conn = new mysqli('database-1.cznlkcpzyec0.us-east-2.rds.amazonaws.com', 'admin', ****, '');
-
-$con = mysqli_connect("database-1.cznlkcpzyec0.us-east-2.rds.amazonaws.com", "admin", ****, "dbpractice");
->>>>>>> 93520da925a9cb01668f431880374c379ade2d81
+$con = mysqli_connect("****.rds.amazonaws.com", "admin", ****, "dbpractice");
 
 if ($con) {
-/*
     echo "bağlandı";
     $file   = "csv/sehirler.csv";
     $handle = fopen($file, "r");
@@ -30,8 +24,6 @@ if ($con) {
         $i++;
     }
     echo "sehirler bitti\n";
-*/
-/*
     $file   = "csv/universiteler.csv";
     $handle = fopen($file, "r");
     $i      = 0;
@@ -49,8 +41,6 @@ if ($con) {
         $i++;
     }
     echo "uniler bitti\n";
-*/
-/*
     $file   = "csv/bolumler.csv";
     $handle = fopen($file, "r");
     $i      = 0;
@@ -68,8 +58,6 @@ if ($con) {
         $i++;
     }
     echo "bolumler bitti\n";
-*/
-/*
     $file   = "csv/genel_bilgiler.csv";
     $handle = fopen($file, "r");
     $i      = 0;
@@ -87,8 +75,6 @@ if ($con) {
         $i++;
     }
     echo "genel_bilgiler bitti\n";
-*/
-/*
     $file   = "csv/geldikleri_iller.csv";
     $handle = fopen($file, "r");
     $i      = 0;
@@ -124,7 +110,6 @@ if ($con) {
         $i++;
     }
     echo "uni_tercihleri bitti\n";
-/*
     $file   = "csv/kacinci_tercih.csv";
     $handle = fopen($file, "r");
     $i      = 1;
@@ -162,7 +147,6 @@ if ($con) {
 
     echo "geldikleri_liseler bitti\n";
     echo "<br>" . "Done.";
-*/
 } 
 else {
     echo "Connection Failed.";
