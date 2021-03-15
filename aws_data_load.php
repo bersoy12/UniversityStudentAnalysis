@@ -1,8 +1,8 @@
 <?php
 set_time_limit(0);
-$conn = new mysqli('database-1.cznlkcpzyec0.us-east-2.rds.amazonaws.com', 'admin', 'password', '');
+$conn = new mysqli('****.rds.amazonaws.com', 'admin', ****, '');
 
-$con = mysqli_connect("database-1.cznlkcpzyec0.us-east-2.rds.amazonaws.com", "admin", "password", "dbpractice");
+$con = mysqli_connect("****.us-east-2.rds.amazonaws.com", "admin", ****, "dbpractice");
 
 if ($con) {
 /*
