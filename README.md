@@ -7,8 +7,7 @@
 1. Veri madenciliği
 2. Verilerin düzenlenmesi
 3. Veritabanı modellenmesi
-4. Verilerin veritabanına aktarılması
-5. Veri analizi yapılması
+4. Veri analizi yapılması
 
 ### Cevap Aranan Sorular
 
